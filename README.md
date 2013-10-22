@@ -1,4 +1,4 @@
-arma-url-load
+Calling url from Arma 3
 =============
 
-Demo for url load
+Demonstration of url load from Arma 3. Check description.ext and init.sqf
